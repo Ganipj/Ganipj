@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ganapathi
 - 👀 I’m interested in play cricket and Sudoku
-- 🌱 I’m currently learning Full Stack MERN Developer Program
+- 🌱 I’m currently learning Full Stack Java Developer Program
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
